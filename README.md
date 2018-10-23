@@ -1,2 +1,2 @@
 # MemeMyDay
-Simple browser written in Python3
+Simple memes browser written in Python3
